@@ -1,11 +1,12 @@
 import React from "react";
 
-function Nav() {
-  return (
-    <nav class="navbar navbar-dark bg-dark">
-    <a class="navbar-brand" href="#"></a>
+
+function nav() {
+    return (
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <span class="mb-0 h1"><h1 id="nav-text">Clicky Game</h1></span>
     </nav>
-    );
+  );
 }
 
-export default Nav; 
+export default nav;
