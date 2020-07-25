@@ -1,2 +1,0 @@
-# Click-Game
-Clicking Game
